@@ -1,0 +1,53 @@
+body {
+    background-color: #1b2838;
+    font-family: 'Acme', sans-serif;
+    
+}
+.navbar, .dropdown-item, .dropdown-menu, .steamfooter {
+    background-color: #171d25;
+    /* font-family: 'Acme', sans-serif; */
+    
+}
+.nav-link , .dropdown-item {
+    color: white;
+    /* font-family: 'Acme', sans-serif; */
+}
+.card {
+    background-color: #4581a5;
+}
+dt {
+    float: left;
+    letter-spacing: 2px;
+}
+dd {
+    float: right;
+}
+a, .cardpic {
+    cursor: pointer;
+}
+.modal-content {
+    background-color: rgb(27, 40, 56);
+    color: beige;
+}
+.nextbtn {
+    color: #4581a5;
+    font-size: 30px;
+}
+.nextbtn:hover {
+    color: white;
+}
+.closebtn {
+    color: rgb(235, 23, 23);
+    font-size: 30px;
+}
+.closebtn:hover {
+    color: white;
+}
+.carousel-caption {
+    background-color: rgb(27, 40, 56,0.8);
+}
+.topgames {
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+
